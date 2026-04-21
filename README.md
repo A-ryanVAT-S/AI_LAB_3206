@@ -20,6 +20,9 @@ In our inaugural lab, we implemented the K-Nearest Neighbors algorithm for both 
 ### Lab 2: ML Assignments & Tasks
 This lab consisted of four comprehensive assignments utilizing Jupyter Notebooks. We further explored fundamental machine learning concepts, wrangling data and ensuring our models were genuinely learning rather than just memorizing.
 
+### Lab 3: Naive Bayes & Neural Networks
+In this lab, we dove into probability and neural architectures. We built a Naive Bayes classifier (perfect for filtering out spam from our `emails.csv` dataset) and took our first steps into the world of Neural Networks. Slowly but surely, we're teaching these scripts to think for themselves!
+
 ### Lab 4: Heuristic Search (Greedy & A*)
 We shifted gears from machine learning to classical AI search algorithms, specifically focusing on Greedy Search and A* Search. We successfully helped our agents find optimal paths, proving that sometimes being "greedy" or wishing upon a "star" is actually mathematically sound.
 
